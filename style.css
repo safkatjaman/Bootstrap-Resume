@@ -1,0 +1,23 @@
+.header-css {
+      padding: 4em;
+      border-radius: .3em;
+      color: white;
+      padding-left: 1em;
+}
+
+.footer-css {
+    text-align: center;
+}
+
+.footer-css > a {
+      text-decoration: none;
+      color: black;
+}
+
+.footer-css > a:hover {
+      color: coral;
+}
+
+.footer-css > p {
+      margin: 0px;
+}
